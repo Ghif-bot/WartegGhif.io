@@ -1,2 +1,1 @@
-# WarungTegal.io
 # WartegGhif.io
