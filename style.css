@@ -12,7 +12,7 @@ figcaption {
 body {
     background-color: #f9f8f6;
     color: #666666;
-    background-image: url("https://i.stack.imgur.com/jGlzr.png");
+    background-image: url(https://i.stack.imgur.com/jGlzr.png);
     background-position: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 1.4em;
@@ -28,7 +28,7 @@ body {
 }
 
 header {
-    background-image: url("https://th.bing.com/th/id/OIP.D6VcUBdPSrwZOQhtIqT6CgHaEK?pid=ImgDet&rs=1");
+    background-image: url(https://th.bing.com/th/id/OIP.D6VcUBdPSrwZOQhtIqT6CgHaEK?pid=ImgDet&rs=1);
     height: 160px;
 }
 
